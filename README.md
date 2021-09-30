@@ -4,7 +4,7 @@ Template Naskah Skripsi LaTeX
 Template Naskah Skripsi dengan typesetting LaTeX untuk Teknik Informatika Trunojoyo Madura.
 [Di modifikasi dari template skripsi](https://github.com/gtrdp/template-skripsi) Departemen Teknik Elektro dan Teknologi Informasi (DTETI) Universitas Gadjah Mada. Template ini merupakan hasil modifikasi dari versi pak Pekik Nurwantoro (FMIPA UGM) dan mas Yohan (T Elektro UGM 2008) dan mas Guntur D Putra.
 
-Anda dapat melihat sampel hasil PDF di file (main.pdf)[main.pdf].
+Anda dapat melihat sampel hasil PDF di file [main.pdf](main.pdf).
 
 Semoga bermanfaat. Anda sangat dibolehkan untuk turut berkontribusi dalam project ini dengan *Fork*, *Pull Request*, *Create New Issue*, atau turut menjadi kontributor repo ini.
 
